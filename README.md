@@ -9,7 +9,7 @@ AI,Call Center,Contact Center,LLM,TTS,ASR,NLP,RAG,Customer Service,IPCC,FreeSWIT
 
 # 📫 How to reach us:
 
-- 官方WeChat:freeipcc
+- 官方WeChat:freeaicc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
