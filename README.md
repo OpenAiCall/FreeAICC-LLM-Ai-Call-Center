@@ -5,7 +5,7 @@ AI,Call Center,Contact Center,Call,LLM,TTS,ASR,NLP,RAG,Customer Service,IPCC,Fre
 
 # 目标
 
-致力于成为大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、智能呼叫中心系统、大模型智能客服系统的全球领导者！！
+致力于成为大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、智能呼叫中心系统、大模型智能客服系统的全球领导者！！！
 
 # 📫 How to reach us:
 
@@ -14,7 +14,7 @@ AI,Call Center,Contact Center,Call,LLM,TTS,ASR,NLP,RAG,Customer Service,IPCC,Fre
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.01.16最新demo链接enjoy😄：
+# 2025.01.17最新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
