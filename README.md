@@ -14,7 +14,7 @@ AI,Call Center,Contact Center,Call,LLM,TTS,ASR,NLP,RAG,Customer Service,IPCC,Fre
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.01.22最新demo链接enjoy😄：
+# 2025.01.23最新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
