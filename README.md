@@ -1,5 +1,5 @@
 # FreeAICC-LLM-Ai-Call-Center
-大模型呼叫中心，智能呼叫中心，大模型，智能，呼叫中心,FreeSWITCH，大模型呼入机器人，大模型呼出机器人，智能外呼，联络中心，客服中心，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统,AI,Call Center,Contact Center,LLM,TTS,ASR,NLP,RAG,Customer Service,IPCC,Voice,LangChain,Outbound,Inbound,Call,Java,FreeSWITCH！
+大模型呼叫中心，智能呼叫中心，大模型，智能，呼叫中心,FreeSWITCH，大模型呼入机器人，大模型呼出机器人，智能外呼，联络中心，客服中心，大模型机器人，智能电话外呼，大模型，FreeSWITCH大模型智能客服，大模型智能呼叫中心系统,AI,Call Center,Contact Center,LLM,TTS,ASR,NLP,RAG,Customer Service,IPCC,Voice,LangChain,Outbound,Inbound,Call,Java,FreeSWITCH！！！
 
 # 完整:前端、后端、数据库，齐全！
 
@@ -14,7 +14,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.01.27最新demo链接enjoy😄：
+# 2025.01.28最新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -57,7 +57,7 @@ FreeAICC项目脱胎于FreeIPCC，在大模型时代，率先将大模型、人�
 
 # 😄关于源码、付费、许可：简单的许可协议（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）
 
-我们采用的是一个简单的许可证协议条款:付费购买源代码之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
+我们采用的是一个简单的许可证协议条款:付费购买源代码之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 
 ## 🤔工单系统功能列表
 
