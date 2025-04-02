@@ -11,7 +11,7 @@
 # 📫 How to reach us:
 
 - 官方WeChat:freeaicc
-- PC电脑端：<a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">点我WhatsApp聊天</a>；手机移动端：<a href="whatsapp://send?phone=+8615700176897&text=Hello">点我WhatsApp聊天</a>
+- Whatsapp：<a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">点我WhatsApp聊天</a>
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
