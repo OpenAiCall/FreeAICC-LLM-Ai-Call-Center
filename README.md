@@ -11,12 +11,12 @@
 # 📫 How to reach us:
 
 - 官方WeChat:freeaicc
-- Whatsapp：<a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">点我WhatsApp聊天</a>
+- Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to chat
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.04.02最新demo链接enjoy😄：
+# 2025.04.03最新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
