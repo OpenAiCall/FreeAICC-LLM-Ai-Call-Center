@@ -83,6 +83,13 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
 
+## 😄用户专属群支持小组的群人员数量：10人左右，响应更及时
+
+下图是随机抽取的需求对接的群：
+
+![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+
+![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 ## 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训 About source code and payment: After payment, we will provide the corresponding module source code and one source code training
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
