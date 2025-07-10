@@ -1,7 +1,7 @@
 a呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!!
 
-LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM等!
-LLM Call Center, AI Call Center, large model call center, large model customer service system, can connect to mainstream models and private models on the market: OpenAI, LLaMA, Kimi, Tongyi Qianwen, Zhipu AI, iFlytek Spark, Gemini, Xorbits Inference, Amazon Bedrock, Volcano Engine, Tencent Hunyuan, Claude, Bard, DeepSeek, Azure OpenAI, Qianfan Large Model, Ollama, qwen, vLLM, etc.
+LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型等!
+LLM Call Center, AI Call Center, large model call center, large model customer service system, can connect to mainstream models and private models on the market.
 
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者!
 We are committed to becoming: 1. Big model call center system, big model inbound call, big model outbound call, telephone robot, customer service robot, intelligent call center system, big model intelligent customer service system; 2. Open source call center system, open source customer service system; 3. Video call center system, video customer service system; 4. Omni-channel customer service system, online customer service system and other global leaders in customer service and corporate customer acquisition!
@@ -32,13 +32,6 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 - Email:leehear@gmail.com
 
 ## 2025.07.10 new demo URL 最新链接enjoy😄：
-
-1，话务call manager/在线客服online chat：(demo123/demo123@Abc)
-http://124.220.48.38:8822/cc
-
-2，工单work oder：(demo/123456)
-http://124.220.48.38:80
-
 注意：如果页面打不开，是因为demo页面正在频受DDoS攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/5d1d5e2b-6bbb-47ad-937c-18df1b366023)
 
@@ -81,8 +74,6 @@ Basic functions:
 10. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, propose requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
 ![image](https://github.com/user-attachments/assets/523a122e-fc42-44a0-aa3d-3cf9f0cc154a)
-![image](https://github.com/user-attachments/assets/69d7e932-6e7e-4ac6-8f04-3ef637e859a1)
-![image](https://github.com/user-attachments/assets/01705dcc-933a-49bd-b798-b25849e152df)
 ![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
 ![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
 ![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
@@ -92,24 +83,7 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/360f00f2-6a61-423f-ada0-eb67a2ce1ede)
 ![image](https://github.com/user-attachments/assets/b8f100d0-6547-43dd-afab-ea331f0a8748)
 
-## 🤔LLM Call Center System Function List
-![image](https://github.com/user-attachments/assets/56bea3a1-b1fd-4118-8eb4-66f010476af0)
-![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
-![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
-![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
-
 ## 😄每一个用户，都有专属群支持：10人左右，响应更及时
-
-下图是随机抽取的需求对接的群：
-
-![image](https://github.com/user-attachments/assets/9abb6028-239d-4e17-8314-e0f3258d2395)
-![image](https://github.com/user-attachments/assets/7c358cb1-aa9e-4279-9e09-9b53a2c63a61)
-![image](https://github.com/user-attachments/assets/51e22d52-9d81-4549-a699-4bbf81e21242)
-![image](https://github.com/user-attachments/assets/96fc0164-d3cd-4a7c-bb1c-9f2b49670ec3)
-![image](https://github.com/user-attachments/assets/d973ab28-f83b-4bdd-bf9e-3f0130811eaa)
-![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/a9a519c1-02ba-455c-a53a-bb98de8551c5)
-![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 ## 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训 About source code and payment: After payment, we will provide the corresponding module source code and one source code training
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
