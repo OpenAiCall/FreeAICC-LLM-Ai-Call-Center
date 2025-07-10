@@ -75,8 +75,6 @@ Basic functions:
 
 ![image](https://github.com/user-attachments/assets/523a122e-fc42-44a0-aa3d-3cf9f0cc154a)
 ![image](https://github.com/user-attachments/assets/8627ae75-9bca-4c50-b6a9-6c713f694abc)
-![image](https://github.com/user-attachments/assets/b16b77b2-2312-4324-8d60-fbe21aa7f81c)
-![image](https://github.com/user-attachments/assets/421299e3-18de-4815-b94c-3d97d6b3b027)
 ![image](https://github.com/user-attachments/assets/6cbdd701-9349-4101-8b39-a5eb6dc0b7b2)
 ![image](https://github.com/user-attachments/assets/97fe2184-2dff-4009-a8bf-95ea6a313d3e)
 ![image](https://github.com/user-attachments/assets/46f29856-8270-43fe-b3e7-3240dd33d502)
